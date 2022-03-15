@@ -1,0 +1,3 @@
+In the application «Marvel Strike Force» Russian version. The hero "МИСТИ НАЙТ", in the ability "КАПИТАН КОМАНДЫ", has an error in the description of the ability (grammar is broken, and the logic of constructing the text). That's right - "ГЕРОЕВ ПО НАЙМУ НА 20%." But in fact, "ГЕРОЕВ ПО НАЙМУ20 на %." A screenshot is attached (MSF Bug1.1). 
+The nickname in the game is Barry4994.
+(21.02.2022 ON MOSCOW time)
