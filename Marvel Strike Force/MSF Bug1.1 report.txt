@@ -1,0 +1,29 @@
+
+1. Open «Marvel strike force»
+2. Launch the "Characters" module
+3. Choose the character "MISTY KNIGHT"
+4. Unlock the ability "Team Captain"
+5. Select "LEVEL 2" abilities
+Expected result: "HEROES FOR HIRE BY 20%"
+Actual result: "HEROES FOR HIRE by 20%"
+
+Environment: (POCO x3 pro) Android version: 11RKQ 1.200826.002 / Version MIUI: MIUI Global 12.5.1 (12.5.1.0 RJURUXM)
+Client:  Marvel strike force 6.1.0
+Time: 02/21/2022 (11:53 at Moscow time)
+Screenshot attached.
+
+
+(RUSSIAN VERSION)
+
+1. Открыть приложение «Marvel strike force»
+2. Запустить модуль «Персонажи»
+3. Выбираем персонажа "МИСТИ НАЙТ"
+4. Открываем способность "Капитан команды"
+5. Выбираем "УРОВЕНЬ 2" способности
+Ожидаемый результат: "ГЕРОЕВ ПО НАЙМУ НА 20%"
+Фактический результат: "ГЕРОЕВ ПО НАЙМУ20 на %"
+
+Окружение: (POCO x3 pro) Версия андроид: 11RKQ 1.200826.002 / Версия MIUI: MIUI Global 12.5.1 (12.5.1.0 RJURUXM)
+Клиент: Marvel strike force 6.1.0
+Время: 21.02.2022 (11:53 по Московскому времени)
+Скриншот прилагается.

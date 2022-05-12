@@ -1,0 +1,19 @@
+1. Open «Marvel strike force»
+2. Launch the "Real-time Combat" module
+Expected result: 2 buttons with different names and different functionality
+Actual result: 2 buttons with identical names "into battle" with different functionality
+Environment: (POCO x3 pro) Android version: 11RKQ 1.200826.002 / Version MIUI: MIUI Global 12.5.1 (12.5.1.0 RJURUXM)
+Client:  Marvel strike force 6.1.0
+Time: 05/10/2022 (14:27 at Moscow time)
+screenshot attached
+
+
+1. Открыть приложение «Marvel strike force»
+2. Запустить модуль «Бой в реальном времени»
+Ожидаемый результат: 2 кнопки с различными названиями и разным функционалом
+Фактический результат: 2  кнопки с идентичными названиями «в бой» с различным функционалом
+
+Окружение: (POCO x3 pro) Версия андроид: 11RKQ 1.200826.002 / Версия MIUI: MIUI Global 12.5.1 (12.5.1.0 RJURUXM)
+Клиент: Marvel strike force 6.1.0
+Время: 10.05.2022 (14:27 по Московскому времени)
+Скриншот прилагается.

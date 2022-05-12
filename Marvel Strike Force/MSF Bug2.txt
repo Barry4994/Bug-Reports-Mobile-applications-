@@ -1,3 +1,0 @@
-In the application "Marvel Strike Force" Russian version. In the ARENA module, during the battle, I destroyed the "НЕБУЛА" unit. She applied the "REBIRTH" mechanics, but stopped being displayed visually. I managed to finish the fight, but the character "НЕБУЛА" was invisible until the end of the fight. A screenshot is attached (MSF Bug2.1 and MSF Bug2.2). 
-the nickname in the game is Barry 4994.
-(03.03.2022 12:30-12:32 Moscow time)

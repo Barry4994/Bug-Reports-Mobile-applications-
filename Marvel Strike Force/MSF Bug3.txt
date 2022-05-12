@@ -1,4 +1,0 @@
-In the application "Marvel Strike Force" Russian version. In the "EQUIPMENT" module, the system does not respond correctly to the availability of a resource: I decided to pump the "DEADPOOL" character, went into the "EQUIPMENT" module, saw a shortage of "Omnium (improved)", pressed the "FIND" button, collected the required amount, pressed the CREATE button 3 times. Result - I can't create an element, 3/3 is displayed in red (as a lack of resources).
-A screenshot is attached (MSF Bug3.1). 
-the nickname in the game is Barry 4994.
-(22.02.2022 Moscow time)

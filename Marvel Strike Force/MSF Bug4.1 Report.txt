@@ -1,0 +1,27 @@
+1. Open «Marvel strike force»
+2. Launch the "Real-time Combat" module
+3. Press the LARGE ORANGE "Into battle" button
+4. Выбрать 5 героев
+5. Click "done"
+6. Fight to the victory of one team
+Expected result: The fight is on, until one team wins
+Actual result: The fight is constantly interrupted, and throws it into the main menu
+Environment: (POCO x3 pro) Android version: 11RKQ 1.200826.002 / Version MIUI: MIUI Global 12.5.1 (12.5.1.0 RJURUXM)
+Client:  Marvel strike force 6.1.0
+Time: 05/10/2022 (14:27 at Moscow time)
+video file is attached
+
+
+1. Открыть приложение «Marvel strike force»
+2. Запустить модуль «Бой в реальном времени»
+3. Нажать КРУПНУЮ ОРАНЖЕВУЮ кнопку «В бой» 
+4. Выбрать 5 героев
+5. Нажать «готово»
+6. Сражайся до победы одной команды
+Ожидаемый результат: Бой идёт, до победы одной команды
+Фактический результат: Бой постоянно прерывается, и выбрасывает в главное меню
+
+Окружение: (POCO x3 pro) Версия андроид: 11RKQ 1.200826.002 / Версия MIUI: MIUI Global 12.5.1 (12.5.1.0 RJURUXM)
+Клиент: Marvel strike force 6.1.0
+Время: 10.05.2022 (14:27 по Московскому времени)
+Видео файл прилагается.
