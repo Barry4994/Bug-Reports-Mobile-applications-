@@ -1,0 +1,27 @@
+1. Open «Marvel strike force»
+2. Launch the "Real-time Combat" module
+3. Press the LARGE ORANGE "Into battle" button
+4. Choose 5 heroes
+5. Click "done"
+Expected result: Hint button [!] does not violate the boundaries of the inscription "Arena in real time"
+The actual result: The hint button [!] overlaps the letter "I" in the phrase "Arena in real time"
+
+Environment: (POCO x3 pro) Android version: 11RKQ 1.200826.002 / Version MIUI: MIUI Global 12.5.1 (12.5.1.0 RJURUXM)
+Client:  Marvel strike force 6.1.0
+Time: 05/18/2022 (13:09 at Moscow time)
+Screenshot is attached.
+
+
+(RUSSIAN VERSION)
+1. Открыть приложение «Marvel strike force»
+2. Запустить модуль «Бой в реальном времени»
+3. Нажать КРУПНУЮ ОРАНЖЕВУЮ кнопку «В бой» 
+4. Выбрать 5 героев
+5. Нажать «готово»
+Ожидаемый результат: Кнопка подсказки [!] не нарушает границ надписи "Арена в реальном времени"
+Фактический результат: Кнопка подсказки [!] перекрывает собой букву "И" в фразе "Арена в реальном времени"
+
+Окружение: (POCO x3 pro) Версия андроид: 11 RKQ1.200826.002 / Версия MIUI: MIUI Global 12.5.1 (12.5.1.0 RJURUXM)
+Клиент: Marvel strike force 6.1.0
+Время: 18.05.2022 (13:09 по Московскому времени)
+Скриншот прилагается.

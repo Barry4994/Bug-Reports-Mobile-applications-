@@ -1,7 +1,7 @@
 1. Open «Marvel strike force»
 2. Launch the "Real-time Combat" module
 3. Press the LARGE ORANGE "Into battle" button
-4. Выбрать 5 героев
+4. Choose 5 heroes
 5. Click "done"
 6. Fight to the victory of one team
 Expected result: The fight is on, until one team wins

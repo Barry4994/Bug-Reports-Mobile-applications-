@@ -1,0 +1,29 @@
+Precondition: No glasses "Restoring the company's energy"
+1. Open the "Marvel strike force" application
+2. Click the "Buy: Company Energy" button
+3. Buy energy (3 times) for 50 energy cores
+4. Get 50 units of "Company Energy Recovery" (using "ACHIEVEMENTS" or "DAILY GOALS")
+5. Click "Buy: Company Energy"
+Expected result: A button appears to take advantage of 50 units of "Company Energy Recovery"
+The actual result: The use 100 energy cores button appears
+
+Environment: (POCO x3 pro) Android version: 11RKQ 1.200826.002 / Version MIUI: MIUI Global 12.5.1 (12.5.1.0 RJURUXM)
+Client:  Marvel strike force 6.1.0
+Time: 05/18/2022 (13:09 at Moscow time)
+Screenshot is attached.
+
+
+(RUSSIAN VERSION) 
+Предусловие: Отсутствие очков "Восстановление энергии компании"
+1. Открыть приложение «Marvel strike force»
+2. Нажать кнопку "Купить: Энергия компании"
+3. Купить энергию (3 раза) за 50 энергоядер
+4. Получить 50 едениц "Восстановление энергии компании" (с помощью "ДОСТИЖЕНИЯ" или "ЕЖЕДНЕВНЫЕ ЦЕЛИ")
+5. Нажать кнопку "Купить: Энергия компании"
+Ожидаемый результат: Появляется кнопка воспользоваться 50 единиц восстановления энергии компании
+Фактический результат: Появляется кнопка воспользоваться 100 энергоядрами
+
+Окружение: (POCO x3 pro) Версия андроид: 11 RKQ1.200826.002 / Версия MIUI: MIUI Global 12.5.1 (12.5.1.0 RJURUXM)
+Клиент: Marvel strike force 6.1.0
+Время: 18.05.2022 (13:09 по Московскому времени)
+Скриншот прилагается.

@@ -1,0 +1,25 @@
+1. Open the "Marvel strike force" application
+2. Open the CHARACTERS menu
+3. Open the filter
+4. Choose "WAKANDAS"
+Expected result: All characters have a name displayed
+Actual result: "KILLMONGER" does not display the name
+
+Environment: (POCO x3 pro) Android version: 11RKQ 1.200826.002 / Version MIUI: MIUI Global 12.5.1 (12.5.1.0 RJURUXM)
+Client:  Marvel strike force 6.1.0
+Time: 05/18/2022 (13:19 at Moscow time)
+Video file is attached.
+
+
+(RUSSIAN VERSION) 
+1. Открыть приложение «Marvel strike force»
+2. Открыть меню "ПЕРСОНАЖИ"
+3. Открыть фильтр
+4. Выбрать "ВАКАНДЦЫ"
+Ожидаемый результат: У всех персонажей отображается имя
+Фактический результат: у "КИЛЛМОНГЕР" не отображается имя
+
+Окружение: (POCO x3 pro) Версия андроид: 11 RKQ1.200826.002 / Версия MIUI: MIUI Global 12.5.1 (12.5.1.0 RJURUXM)
+Клиент: Marvel strike force 6.1.0
+Время: 18.05.2022 (13:19 по Московскому времени)
+Видео файл прилагается.
