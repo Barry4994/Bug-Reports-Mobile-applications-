@@ -1,0 +1,34 @@
+(ENGLISH VERSION)
+
+Description: In the "SPACE TEST", the inscription "Victory: 3" goes beyond the borders and blocks the neighboring text.
+Environment: (POCO x3 pro) Android version: 11RKQ 1.200826.002 / Version MIUI: MIUI Global 12.5.1 (12.5.1.0 RJURUXM)
+Client:  Marvel strike force 6.1.3
+Localization: Russian
+Time: 05/31/2022 (16:09 at Moscow time)
+
+Playback steps:
+1. Open the "Marvel strike force" application
+2. Open the "SPACE TEST" module
+3. Score 3 wins
+
+Expected result: The inscription "Victory: 3" does not go beyond the borders and does not block the neighboring text.
+Actual result: The inscription "Victory: 3" goes beyond the borders and blocks the neighboring text.
+Screenshot is attached.
+
+
+(RUSSIAN VERSION) 
+
+Описание: В "КОСМИЧЕСКОМ ИСПЫТАНИИ" надпись "Победы: 3" выходить за границы и загораживает соседний текст.
+Окружение: (POCO x3 pro) Версия андроид: 11 RKQ1.200826.002 / Версия MIUI: MIUI Global 12.5.1 (12.5.1.0 RJURUXM)
+Клиент: Marvel strike force 6.1.3
+Локализация: Русская
+Время: 31.05.2022 (16:09 по Московскому времени)
+
+Шаги воспроизведения:
+1. Открыть приложение «Marvel strike force»
+2. Открыть модуль "КОСМИЧЕСКОЕ ИСПЫТАНИЕ"
+3. Набрать 3 победы
+
+Ожидаемый результат: Надпись "Победы: 3" не выходит за границы и не загораживает соседний текст.
+Фактический результат: Надпись "Победы: 3" выходит за границы и загораживает соседний текст.
+Скриншот прилагается.
