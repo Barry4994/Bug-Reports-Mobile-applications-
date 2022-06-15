@@ -1,0 +1,36 @@
+(ENGLISH VERSION)
+
+Description: In "DAILY ARENA BATTLES", the description is incorrect, in fact, you need not 2 victories, but 2 participation.
+Environment: (POCO x3 pro) Android version: 11RKQ 1.200826.002 / Version MIUI: MIUI Global 12.5.1 (12.5.1.0 RJURUXM)
+Client:  Marvel strike force 6.1.3
+Localization: Russian
+Time: 06/01/2022 (11:14 at Moscow time)
+
+Playback steps:
+1. Open the "Marvel strike force" application
+2. Open the ARENA module
+3. Play 2 battles, 1 of which to lose
+4. Open the "DAILY GOALS" tab
+
+Expected result: You need to win 2 battles to complete the task.
+The actual result: You need to participate in 2 battles to complete the task.
+The video is attached.
+
+
+(RUSSIAN VERSION) 
+
+Описание: В "ЕЖЕДНЕВНЫЕ БОИ НА АРЕНЕ" неверное описание, фактически нужно не 2 победы, а 2 участия.
+Окружение: (POCO x3 pro) Версия андроид: 11 RKQ1.200826.002 / Версия MIUI: MIUI Global 12.5.1 (12.5.1.0 RJURUXM)
+Клиент: Marvel strike force 6.1.3
+Локализация: Русская
+Время: 01.06.2022 (11:14 по Московскому времени)
+
+Шаги воспроизведения:
+1. Открыть приложение «Marvel strike force»
+2. Открыть модуль "АРЕНА"
+3. Сыграть 2 боя, 1 из которых проиграть
+4. Открыть вкладку "ЕЖЕДНЕВНЫЕ ЦЕЛИ"
+
+Ожидаемый результат: Нужно выйграть 2 боя, чтобы выполнить задание.
+Фактический результат: Нужно поучавствовать в 2 боях, чтобы выполнить задание.
+Видео прилагается.
