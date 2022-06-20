@@ -1,0 +1,63 @@
+(ENGLISH VERSION)
+
+Description: The text of the letters is inconvenient to read, because of the hit of pieces of code.
+Environment: (POCO x3 pro) Android version: 11RKQ 1.200826.002 / Version MIUI: MIUI Global 12.5.1 (12.5.1.0 RJURUXM)
+Client:  Marvel strike force 6.1.3
+Localization: Russian
+Time: 06/18/2022 (8:59 at Moscow time)
+
+Playback steps:
+1. Open the "Marvel strike force" application
+2. Open the MAIL module
+3. Hide the message "COMING SOON: Black Thunder"
+
+Expected result: No pieces of code by type: (<color=#fff568></color>)
+The actual result: 
+<color=#fff568>Black Thunder</color>arrives from another dimension to recapture the city of inhumanAttilan from the defiled Thanos. 
+Assemble a team of the Children of Asgard and go on a mission to recruit Black Thunder - the legendary blaster of the inhumans!
+ Together with his inhuman allies, Black Thunder levels enemies to the ground with the help of his supersonic abilities:
+-Enemies destroyed by Black Thunder cannot be revived (except for the Phoenix, as a Black Phoenix is a summoned creature).
+-Passive ability deals additional damage to enemies with low health.
+-Interrupts the summoning of enemies.
+- Space, blaster, bio.
+ <color=#fff568>special events will help you to averb it:
+-<color=#fff568>For Asgard!</color>:get 2 times more fragments of the Children of Asgard.
+-<color=#fff568>Offer for characters</color>: offers for character fragments will be available before the event.
+-<color=#fff568>Login calendar</color>: get shards every day for 7 days before the event starts.
+-<color=#fff568>
+Screenshots attached.
+
+
+(RUSSIAN VERSION) 
+
+Описание: Текст писем неудобно читать, из-за попадания кусков кода.
+Окружение: (POCO x3 pro) Версия андроид: 11 RKQ1.200826.002 / Версия MIUI: MIUI Global 12.5.1 (12.5.1.0 RJURUXM)
+Клиент: Marvel strike force 6.1.3
+Локализация: Русская
+Время: 18.06.2022 (8:59 по Московскому времени)
+
+Шаги воспроизведения:
+1. Открыть приложение «Marvel strike force»
+2. Открыть модуль "ПОЧТА"
+3. Окткрыть сообщение "СКОРО: Черный гром"
+
+Ожидаемый результат: Отсутствие кусков кода по типу: (<color=#fff568></color>)
+Фактический результат: 
+<color=#fff568>ЧерныйГром</color>прибывает из иного измерения, чтобы отбить город нелюдейАттилан у оскверненного Таноса. 
+собери команду Детей Асгарда и отправляйся на задание, чтобы завербовать Черного Грома - легендарного бластера нелюдей!
+   Вместе со своми союзниками-нелюдями Черный Гром ровняет врагов с землей с помощью своих сверхзвуковых способностей:
+-Врагов, уничтоженных Черным Громом, невозможно возродить (за исключением Феникса, как как Черный Феникс призванное существо).
+-Пассивная способность наносит дополнительный урон врагам с низким запасом здоровья.
+-Прерывает вызов врагов.
+-Космос, бластер, био.
+   <color=#fff568>авербовать его тебе помогут особые события:
+-<color=#fff568>За Асгард!</color>:получай в 2 раза больше осколков Детей Асгарда.
+-<color=#fff568>Предложение для персонажей</color>: до начала события будут доступны предложения на осколки персонажей.
+-<color=#fff568>Календарь входа</color>: в течении 7 днейдо начала события ежедневно получай осколки.
+-<color=#fff568>Сфера"Ярость богов"</color>: будет доступна на время действия события. 
+В каждой сфере можно найьт осколки Детей Асгарда, включая Тора, Локи, Хеймдаля и Сиф.
+    <color=#fff568>Требование для участия в событии:</color>
+-Пять (5) персонажей-асгардцев с 5 звёздами, чтобы открыть Черного Грома.
+-Требование к звёздному рангу Детей Асгарда увеличивается на 1 с каждым уровнем.
+   Не упусти возможности завербовать легендарного представителя нелюдей!
+Скриншоты прилагаются.
