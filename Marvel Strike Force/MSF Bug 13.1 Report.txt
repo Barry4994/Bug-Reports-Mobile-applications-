@@ -1,0 +1,43 @@
+(ENGLISH VERSION)
+
+DESCRIPTION: In the Gambit Raid, the gamer was thrown out of the battle, which has not yet loaded, the defeat was counted, and at the same time 10 units of "Gambit Raid Energy" were removed (The player's character did not receive damage, and the enemies are completely healthy)
+COMMENT: Unfortunately, I was not able to film this incident itself, only its consequences. 
+ADDITIONAL INFORMATION: Difficulty: 2 / ROOM 1 / Characters: HEARTS / K9 - "Everything is in my hands"
+
+ENVIRONMENT: (POCO x3 pro) Android version: 11RKQ 1.200826.002 / Version MIUI: MIUI Global 12.5.1 (12.5.1.0 RJURUXM)
+CLIENT:  Marvel strike force 6.2.0
+LOCALIZATION: Russian
+TIME: 06/20/2022 (12:03 at Moscow time)
+
+PLAYBACK STEPS:
+1. Open the Marvel Strike Force app
+2. Open the "ALLIANCE RAIDS" module
+3. Enter the Gambit Raid
+4. Fight in "HEARTS" type battles
+
+EXPECTED RESULT: The battle is loaded, and ends with the victory of one of the parties.
+THE ACTUAL RESULT: The fight did not load, not one side won.
+Video attached.
+
+
+(RUSSIAN VERSION) 
+
+ОПИСАНИЕ: В Рейде Гамбита выбросило из боя, который еще не загрузился, засчитало поражение, и при этом сняли 10 ед "Энергии рейда Гамбита"
+(Не ожин персонаж игрока не получил урона, и враги полностью здоровы)
+КОМЕНТАРИЙ: К сожалению мне не удалось заснять сам этот инцедент, только его последствия. 
+ДОП ИНФОРМАЦИЯ: Сложность: 2 / КОМНАТА 1 / Персонажи: ЧЕРВЫ / К9 - "Все в моих руках"
+
+ОКРУЖЕНИЕ: (POCO x3 pro) Версия андроид: 11 RKQ1.200826.002 / Версия MIUI: MIUI Global 12.5.1 (12.5.1.0 RJURUXM)
+КЛИЕНТ: Marvel strike force 6.2.0
+ЛОКАЛИЗАЦИЯ: Русская
+ВРЕМЯ: 20.06.2022 (12:03 по Московскому времени)
+
+ШАГИ ВОСПРОИЗВЕДЕНИЯ:
+1. Открыть приложение «Marvel strike force»
+2. Открыть модуль "РЕЙДЫ АЛЬЯНСА"
+3. Войти в "Рейд Гамбита"
+4. Сражаться в контатах типа "ЧЕРВЫ"
+
+ОЖИДАЕМЫЙ РЕЗУЛЬТАТ: Бой загружается, и заканчивается победой одной из сторон.
+ФАКТИЧЕСКИЙ РЕЗУЛЬТАТ: Бой не загрузился, не одна сторона не победила.
+Видео прилагается.

@@ -1,0 +1,39 @@
+(ENGLISH VERSION)
+
+DESCRIPTION: For some characters at the maximum level of abilities, it is impossible to read the description, and also it is not duplicated on the right, because of the plate (MAX.ABILITY LEVEL)
+COMMENT: I suggest to remove the sign (MAX.ABILITY LEVEL), place a repeated description in its place, in this case all descriptions will be decorated in the same style. And I also offer to post information about the MAX level of ability in this way - the file is attached (MSF Bug 14.5 COMMENT).
+
+ENVIRONMENT: (POCO x3 pro) Android version: 11RKQ 1.200826.002 / Version MIUI: MIUI Global 12.5.1 (12.5.1.0 RJURUXM)
+CLIENT:  Marvel strike force 6.2.1
+LOCALIZATION: Russian
+TIME: 06/30/2022 (20:07 at Moscow time)
+
+PLAYBACK STEPS:
+1. Open the "Marvel strike force" application
+2. Open the "CHARACTERS" module
+3. Select a character with a MAX ability level whose description does not fit in the frame (MSF Bug 14.4 Screenshot)
+
+EXPECTED RESULT: The description of abilities is placed in a frame, and duplicated on the right, for ease of reading.
+THE ACTUAL RESULT: At the maximum level, some abilities do not fit into the frame and, but on the right instead of duplicating (MAX.ABILITY LEVEL)
+Video and Screenshots are attached.
+
+
+(RUSSIAN VERSION) 
+
+ОПИСАНИЕ: У некоторых персонажей на максимальном уровне способностей, невозможно прочитать описание, а также оно не дублируется справа, из-за таблички
+(МАКС.УРОВЕНЬ СПОСОБНОСТИ)
+КОМЕНТАРИЙ: Предлогаю убрать табличку (МАКС.УРОВЕНЬ СПОСОБНОСТИ), разместить на ее месте повторное описание, в этом случае все описания будут оформлены в едином стиле. А также предлогаю разместить информацию о МАКС уровне способности таким образом - файл приложен (MSF Bug 14.5 COMMENT).
+
+ОКРУЖЕНИЕ: (POCO x3 pro) Версия андроид: 11 RKQ1.200826.002 / Версия MIUI: MIUI Global 12.5.1 (12.5.1.0 RJURUXM)
+КЛИЕНТ: Marvel strike force 6.2.1
+ЛОКАЛИЗАЦИЯ: Русская
+ВРЕМЯ: 30.06.2022 (20:07 по Московскому времени)
+
+ШАГИ ВОСПРОИЗВЕДЕНИЯ:
+1. Открыть приложение «Marvel strike force»
+2. Открыть модуль "ПЕРСОНАЖИ"
+3. Выбрать персонажа с МАКС уровнем способности, описание которого не помещается в рамку (MSF Bug 14.4 Screenshot)
+
+ОЖИДАЕМЫЙ РЕЗУЛЬТАТ: Описание способностей помещается в рамку, и дублируется справа, для удобства чтения.
+ФАКТИЧЕСКИЙ РЕЗУЛЬТАТ: На максимальном уровне некоторые способности не помещаются в рамку и, а справа вместо дублирования (МАКС.УРОВЕНЬ СПОСОБНОСТИ)
+Видео и Скриншоты прилагаются.
