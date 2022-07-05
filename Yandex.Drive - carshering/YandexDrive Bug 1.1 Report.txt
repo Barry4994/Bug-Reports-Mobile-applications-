@@ -1,0 +1,46 @@
+(RUSSIAN VERSION) 
+
+ОПИСАНИЕ: В навигаторе, на карте не отображаются информация о наличии поворота на Ушаковский мост, 
+при маршруте (по Приморском проспукту в сторону Ушаковской набережной).
+КОМЕНТАРИЙ: Я часто пользуюсь навигатором, в ваших авто, и всегда имеется подсказка для удобства выбора рядя движения, но почему-то на данном маршруте, ее нет. 
+13.06 Я был очень расстроен, когда мой маршрут резко изменился и мне пришлось тратить время и разворачиваться, чтобы вернуться на маршрут (город знаю плохо). Далее 2.07 я проезжая тем же путём, находился в центральном ряду, но подсказки по прежнему не было.
+ДОП: Тариф ФИКС, Авто (Renault Captur / Nissan Qashqai), Дмитрий Ковешников #1171162195.
+
+ОКРУЖЕНИЕ: (POCO x3 pro) Версия андроид: 11 RKQ1.200826.002 / Версия MIUI: MIUI Global 12.5.1 (12.5.1.0 RJURUXM)
+КЛИЕНТ: Версия 251 (1.2 и 1.3 Screenshot) / 252 (1.4 и 1.5 Screenshot)
+ВРЕМЯ: 13.06.2022 1:27 (1.2 и 1.3 Screenshot) / 2.07.2022 2:37 (1.4 и 1.5 Screenshot)  (по Московскому времени)
+
+ШАГИ ВОСПРОИЗВЕДЕНИЯ:
+1. Открыть приложение «Яндекс.Драйв - каршеринг»
+2. Выбрать авто в районе метро "БЕГОВАЯ"
+3. Кажать кнопку "Указать ардес"
+4. Указать метро "Дыбенко"
+5. Начать движение по маршруту
+
+
+ОЖИДАЕМЫЙ РЕЗУЛЬТАТ: На экране будут подсказки, выбора полосы движения.
+ФАКТИЧЕСКИЙ РЕЗУЛЬТАТ: На экране не отображаются подсказки, перед поворотом на Ушаковский мост. 
+Скриншоты прилагаются.
+
+
+(ENGLISH VERSION)
+
+DESCRIPTION: The navigator on the map does not display information about the presence of a turn to Ushakovsky Bridge
+during the route (along Primorsky Avenue towards Ushakovskaya Embankment).
+COMMENT: I often use the navigator in your company's cars, and there is always a hint there for the convenience of choosing a lane, but for some reason it is not there on this route. 13.06 I was very upset when my route changed dramatically, and I had to take the time and turn around to get back on the route (I don't know the city well). Then at 2.07 I was driving the same way, but in the center lane and did not repeat the mistake, but still there was no clue.
+ADDITIONALLY: FIXED fare, Car (Renault Captur / Nissan Qashqai), Dmitry Koveshnikov #1171162195.
+
+ENVIRONMENT: (POCO x3 pro) Android version: 11RKQ 1.200826.002 / Version MIUI: MIUI Global 12.5.1 (12.5.1.0 RJURUXM)
+CLIENT: Versoin 251 (1.2 и 1.3 Screenshot) / 252 (1.4 и 1.5 Screenshot)
+TIME: 13.06.2022 1:27 (1.2 и 1.3 Screenshot) / 2.07.2022 2:37 (1.4 и 1.5 Screenshot)  (at Moscow time)
+
+PLAYBACK STEPS:
+1. Open the application "Яндекс.Драйв - каршеринг"
+2. Choose a car in the "Begovaia" metro area
+3. Click the "Specify address" button
+4. Specify the metro station "Dybenko"
+5. Start driving along the route
+
+EXPECTED RESULT: There will be hints on the screen, lane selection.
+ACTUAL RESULT: No hints are displayed on the screen before turning onto Ushakov Bridge.
+Screenshots are attached.
