@@ -1,9 +1,10 @@
 (RUSSIAN VERSION) 
 
-ОПИСАНИЕ: В навигаторе, на карте не отображаются информация о наличии поворота на Ушаковский мост, 
-при маршруте (по Приморском проспукту в сторону Ушаковской набережной).
-КОМЕНТАРИЙ: Я часто пользуюсь навигатором, в ваших авто, и всегда имеется подсказка для удобства выбора рядя движения, но почему-то на данном маршруте, ее нет. 
-13.06 Я был очень расстроен, когда мой маршрут резко изменился и мне пришлось тратить время и разворачиваться, чтобы вернуться на маршрут (город знаю плохо). Далее 2.07 я проезжая тем же путём, находился в центральном ряду, но подсказки по прежнему не было.
+ОПИСАНИЕ: При построенном маршруте от (метро Беговая в сторону м Дыбенко) до поворота на Ушаковский мост, не отображается подсказка, в каком ряду нужно находиться 
+для движения по маршруту. 
+КОМЕНТАРИЙ:  13.06 Я, ехал в правом ряду и, не увидев в навигаторе подсказку, не стал перестраиваться, и оказался на мосту, 
+и мне пришлось тратить время и разворачиваться, чтобы вернуться на маршрут. Далее 2.07 я проезжая тем же путём,
+находился в центральном ряду, и не совершил той же ошибки, но подсказки по прежнему не было.
 ДОП: Тариф ФИКС, Авто (Renault Captur / Nissan Qashqai), Дмитрий Ковешников #1171162195.
 
 ОКРУЖЕНИЕ: (POCO x3 pro) Версия андроид: 11 RKQ1.200826.002 / Версия MIUI: MIUI Global 12.5.1 (12.5.1.0 RJURUXM)
@@ -18,16 +19,18 @@
 5. Начать движение по маршруту
 
 
-ОЖИДАЕМЫЙ РЕЗУЛЬТАТ: На экране будут подсказки, выбора полосы движения.
-ФАКТИЧЕСКИЙ РЕЗУЛЬТАТ: На экране не отображаются подсказки, перед поворотом на Ушаковский мост. 
+ОЖИДАЕМЫЙ РЕЗУЛЬТАТ: При построенном маршруте, на экране будут подсказки, выбора полосы движения, для движения по траектории.
+ФАКТИЧЕСКИЙ РЕЗУЛЬТАТ: При построенном маршруте, на экране не отображаются подсказки, перед поворотом на Ушаковский мост. 
 Скриншоты прилагаются.
 
 
 (ENGLISH VERSION)
 
-DESCRIPTION: The navigator on the map does not display information about the presence of a turn to Ushakovsky Bridge
-during the route (along Primorsky Avenue towards Ushakovskaya Embankment).
-COMMENT: I often use the navigator in your company's cars, and there is always a hint there for the convenience of choosing a lane, but for some reason it is not there on this route. 13.06 I was very upset when my route changed dramatically, and I had to take the time and turn around to get back on the route (I don't know the city well). Then at 2.07 I was driving the same way, but in the center lane and did not repeat the mistake, but still there was no clue.
+DESCRIPTION: When the route is built from (Begovaya metro station in the direction of m Dybenko) to the turn to Ushakovsky Bridge,
+a hint is not displayed in which row you need to be for driving along the route. 
+COMMENT: 13.06 I was driving in the right lane and, not seeing a hint in the navigator, did not change lanes, and ended up on the bridge,
+and I had to waste time and turn around to get back on the route. Then 2.07 I was driving the same way,
+was in the center row, and did not make the same mistake, but there was still no clue.
 ADDITIONALLY: FIXED fare, Car (Renault Captur / Nissan Qashqai), Dmitry Koveshnikov #1171162195.
 
 ENVIRONMENT: (POCO x3 pro) Android version: 11RKQ 1.200826.002 / Version MIUI: MIUI Global 12.5.1 (12.5.1.0 RJURUXM)
@@ -41,6 +44,6 @@ PLAYBACK STEPS:
 4. Specify the metro station "Dybenko"
 5. Start driving along the route
 
-EXPECTED RESULT: There will be hints on the screen, lane selection.
-ACTUAL RESULT: No hints are displayed on the screen before turning onto Ushakov Bridge.
+EXPECTED RESULT:  When the route is built, there will be hints on the screen, lane selection, for moving along the trajectory.
+ACTUAL RESULT: When the route is built, no hints are displayed on the screen before turning onto the Ushakov Bridge.
 Screenshots are attached.
