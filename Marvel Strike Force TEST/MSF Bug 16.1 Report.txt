@@ -9,7 +9,7 @@ TIME: 08/04/2022 (0:10 at Moscow time)
 
 EXPECTED RESULT: Nodes are displayed, there is an opportunity to start a fight.
 ACTUAL RESULT: The entire raid grid is not displayed, there is no opportunity to start a fight.
-
+Video attached.
 
 (RUSSIAN VERSION) 
 
@@ -22,3 +22,4 @@ ACTUAL RESULT: The entire raid grid is not displayed, there is no opportunity to
 
 ОЖИДАЕМЫЙ РЕЗУЛЬТАТ: Узлы отображаются, есть возможность начать бой.
 ФАКТИЧЕСКИЙ РЕЗУЛЬТАТ: Вся сетка рейдов не отображаются, возможность начать бой нет.
+Видео прилагается.
