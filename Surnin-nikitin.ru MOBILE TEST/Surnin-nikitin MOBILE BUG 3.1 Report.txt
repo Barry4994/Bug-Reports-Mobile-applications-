@@ -1,0 +1,34 @@
+(ENGLISH VERSION)
+
+DESCRIPTION: In the purchase editor from ready-made offers, when you change the position of the screen, the text disappears.
+
+ENVIRONMENT: (POCO x3 pro) Android version: 11RKQ 1.200826.002 / Version MIUI: MIUI Global 12.5.1 (12.5.1.0 RJURUXM)
+CLIENT: Google Chrome 87.0.42.80.141
+TIME: 07/26/2022 (20:00 at Moscow time)
+
+PLAYBACK STEPS:
+1. Open https://surnin-nikitin.ru/
+2. Go to the "PURCHASE FROM READY-MADE OFFERS" section
+3. Change the screen position to horizontal
+
+EXPECTED RESULT: After changing the position of the screen, all the elements are in their places.
+THE ACTUAL RESULT: After changing the screen position, the text disappears.
+Video attached.
+
+
+(RUSSIAN VERSION) 
+
+ОПИСАНИЕ: В редакторе покупки из готовых предложений, при смене положения экрана, текст пропадает.
+
+ОКРУЖЕНИЕ: (POCO x3 pro) Версия андроид: 11 RKQ1.200826.002 / Версия MIUI: MIUI Global 12.5.1 (12.5.1.0 RJURUXM)
+КЛИЕНТ: Google Chrome 87.0.42.80.141
+ВРЕМЯ: 26.07.2022 (20:00 по Московскому времени)
+
+ШАГИ ВОСПРОИЗВЕДЕНИЯ:
+1. Открыть https://surnin-nikitin.ru/
+2. Перейти в раздел "ПОКУПКА ИЗ ГОТОВЫХ ПРЕДЛОЖЕНИЙ"
+3. Изменить положение экрана на горизонтальное
+
+ОЖИДАЕМЫЙ РЕЗУЛЬТАТ: После смены положения экрана, все элементы находятся на своих местах.
+ФАКТИЧЕСКИЙ РЕЗУЛЬТАТ: После смены положения экрана текст пропадает.
+Видео прилагается.

@@ -1,0 +1,34 @@
+(ENGLISH VERSION)
+
+DESCRIPTION: In the "Contacts" section, the link "Quality control, warranty" does not work
+
+ENVIRONMENT: (POCO x3 pro) Android version: 11RKQ 1.200826.002 / Version MIUI: MIUI Global 12.5.1 (12.5.1.0 RJURUXM)
+CLIENT: Google Chrome 87.0.42.80.141
+TIME: 07/26/2022 (19:00 at Moscow time)
+
+PLAYBACK STEPS:
+1. Open https://surnin-nikitin.ru/
+2. Go to the "CONTACTS" section
+3. Click on the link "Quality control, warranty"
+
+EXPECTED RESULT: After clicking on the link, a window opens with a description of the warranty conditions.
+ACTUAL RESULT: The message "Oops! This page could not be found"
+Video attached.
+
+
+(RUSSIAN VERSION) 
+
+ОПИСАНИЕ: В разделе «Контакты» не работает ссылка «Контроль качества, гарантия» 
+
+ОКРУЖЕНИЕ: (POCO x3 pro) Версия андроид: 11 RKQ1.200826.002 / Версия MIUI: MIUI Global 12.5.1 (12.5.1.0 RJURUXM)
+КЛИЕНТ: Google Chrome 87.0.42.80.141
+ВРЕМЯ: 26.07.2022 (19:00 по Московскому времени)
+
+ШАГИ ВОСПРОИЗВЕДЕНИЯ:
+1. Открыть https://surnin-nikitin.ru/
+2. Перейти в раздел "КОНТАКТЫ"
+3. Нажать на ссылку "Контроль качества, гарантия"
+
+ОЖИДАЕМЫЙ РЕЗУЛЬТАТ: После назатия на ссылку, открывается окно с описание гарантийных условий.
+ФАКТИЧЕСКИЙ РЕЗУЛЬТАТ: Появлется сообщение "Oops! That page can’t be found"
+Видео прилагается.
