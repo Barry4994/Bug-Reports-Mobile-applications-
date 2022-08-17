@@ -1,0 +1,37 @@
+(ENGLISH VERSION)
+
+DESCRIPTION: In the "EBONY THUNDER" event, a hint will appear that the requirements have been met, but in fact this is not the case.
+PRECONDITION: 1) The "EBONY THUNDER" event is currently taking place 2) You have 5 INHUMANS in your team (not counting BLACK THUNDER) with 2+ stars.
+
+ENVIRONMENT: Device: POCO X3 PRO / Android Version: 11 RKQ1.200826.002 / MIUI Version (for POCO): MIUI Global 12.5.1 Stable 12.5.1.0(RJURUXM) 
+CLIENT: Marvel strike force 6.3.0
+TIME: 08/16/2022 12:45 (Moscow time)
+
+PLAYBACK STEPS:
+1) Open "Marvel strike force"
+2) Go to the "EVENTS" module
+3) Click the "TO FIGHT" button
+
+EXPECTED RESULT: A hint appears when the requirements are met.
+ACTUAL RESULT: A hint will appear when the requirements are partially met.
+The video is attached.
+
+
+
+(RUSSIAN VERSION)
+
+ОПИСАНИЕ: В событии "ЭБЕНОВЫЙ ГРОМ" появялется подсказка, что требования выполнены, но фактически это не так.
+ПРЕДУСЛОВИЕ: 1) В Данный момент проходит событие "ЭБЕНОВЫЙ ГРОМ" 2) Вы имеете в свой команде 5 НЕЛЮДЕЙ (не считая ЧЁРНОГО ГРОМА) с 2+ звёздами.
+
+ОКРУЖЕНИЕ: устройство: POCO X3 PRO / Версия андроид: 11 RKQ1.200826.002 / Версия MIUI (для POCO): MIUI Global 12.5.1 Стабильная 12.5.1.0(RJURUXM) 
+КЛИЕНТ: Marvel strike force 6.3.0
+ВРЕМЯ: 16/08/2022 12:45 (по Московскому времени)
+
+ШАГИ ВОСПРОИЗВЕДЕНИЯ:
+1) Открыть "Marvel strike force"
+2) Перейти в модуль "СОБЫТИЯ"
+3) Нажмите кнопку "В БОЙ" 
+
+ОЖИДАЕМЫЙ РЕЗУЛЬТАТ: Подсказка появляется, когда требования выполнены.
+ФАКТИЧЕСКИЙ РЕЗУЛЬТАТ: Подсказка появится, когда требования частично выполнены.
+Видео прилагается.
