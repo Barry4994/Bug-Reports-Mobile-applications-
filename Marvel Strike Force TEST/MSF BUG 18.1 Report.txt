@@ -1,0 +1,39 @@
+(ENGLISH VERSION)
+
+DESCRIPTION: In the "SUPPLIES" module, the "SPHERES" list does not display the number of points scored for the "HEAVY ARMOR" sphere.
+PRECONDITION: 1) The "MONSTER VS MACHINE" event takes place 2) Win at least 1 time, while receiving at least 50 points of the "Heavy Armor" sphere.
+
+ENVIRONMENT: Device: POCO X3 PRO / Android Version: 11 RKQ1.200826.002 / MIUI Version (for POCO): MIUI Global 12.5.1 Stable 12.5.1.0(RJURUXM) 
+CLIENT: Marvel strike force 6.3.0
+TIME: 08/23/2022 17:17 (Moscow time)
+
+PLAYBACK STEPS:
+1) Open "Marvel strikeforce"
+2) Go to the "RAID" module
+3) Win multiple times
+4) Go to the "SPHERES" in the "SUPPLIES" module
+
+EXPECTED RESULT: The "HEAVY ARMOR" sphere displays the number of points scored.
+ACTUAL RESULT: The "HEAVY ARMOR" sphere displays 0 points.
+The video is attached.
+
+
+
+(RUSSIAN VERSION)
+
+ОПИСАНИЕ: В модуле "ПРИПАСЫ", в списке "СФЕРЫ" не отображается количество набранных очков у сферы "ТЯЖЕЛАЯ БРОНЯ".
+ПРЕДУСЛОВИЕ: 1) Проходит событие "МОНСТР ПРОТИВ МАШИНЫ" 2) Победить минимум 1 раз, получив при этом минимум 50 очков сферы "Тяжелая броня".
+
+ОКРУЖЕНИЕ: устройство: POCO X3 PRO / Версия андроид: 11 RKQ1.200826.002 / Версия MIUI (для POCO): MIUI Global 12.5.1 Стабильная 12.5.1.0(RJURUXM) 
+КЛИЕНТ: Marvel strike force 6.3.0
+ВРЕМЯ: 23/08/2022 17:17 (по Московскому времени)
+
+ШАГИ ВОСПРОИЗВЕДЕНИЯ:
+1) Открыть "Marvel strike force"
+2) Перейти в модуль "НАЛЕТ"
+3) Победить несколько раз
+4) Перейти в "СФЕРЫ" в модуле "ПРИПАСЫ"
+
+ОЖИДАЕМЫЙ РЕЗУЛЬТАТ: у сферы "ТЯЖЕЛАЯ БРОНЯ" отображается количество набранных очков.
+ФАКТИЧЕСКИЙ РЕЗУЛЬТАТ: у сферы "ТЯЖЕЛАЯ БРОНЯ" отображается 0 очков.
+Видео прилагается.
