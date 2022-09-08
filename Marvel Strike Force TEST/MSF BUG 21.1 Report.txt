@@ -1,0 +1,39 @@
+(ENGLISH VERSION)
+
+DESCRIPTION: In modul "REID", the opponent's characters' strength level is displayed in an enlarged font.
+PRECONDITION: Selected character YONDU.
+LOСALIZATION: Russian
+
+ENVIRONMENT: Device: POCO X3 PRO / Android Version: 11 RKQ1.200826.002 / MIUI Version (for POCO): MIUI Global 12.5.1 Stable 12.5.1.0(RJURUXM) 
+CLIENT: Marvel strike force 6.3.0
+TIME: 09/06/2022 20:58 (Moscow time)
+
+PLAYBACK STEPS:
+1) Open "Marvel strike force"
+2) Go to "RAID"
+3) Press the "OPEN" button.
+
+EXPECTED RESULT: Both teams have the same strength level displayed in the same font.
+ACTUAL RESULT: the opposing team's strength level is displayed in an enlarged font.
+Screenshot is attached.
+
+
+
+(RUSSIAN VERSION)
+
+ОПИСАНИЕ: В модуле "НАЛЕТ" у персонажей соперника уровень силы отображается увеличенным шрифтом.
+ПРЕДУСЛОВИЕ: Избранный персонаж ЙОНДУ
+ЛОКАЛИЗАЦИЯ: Русская
+
+ОКРУЖЕНИЕ: устройство: POCO X3 PRO / Версия андроид: 11 RKQ1.200826.002 / Версия MIUI (для POCO): MIUI Global 12.5.1 Стабильная 12.5.1.0(RJURUXM) 
+КЛИЕНТ: Marvel strike force 6.3.0
+ВРЕМЯ: 06/09/2022 20:58 (по Московскому времени)
+
+ШАГИ ВОСПРОИЗВЕДЕНИЯ:
+1) Открыть "Marvel strike force"
+2) Перейти в "НАЛЕТ"
+3) Нажать кнопку "ОТКР."
+
+ОЖИДАЕМЫЙ РЕЗУЛЬТАТ: У обеих команд уровень силы отображается одинаковым шрифтом.
+ФАКТИЧЕСКИЙ РЕЗУЛЬТАТ: у команды соперника уровень силы отображается увеличенным шрифтом.
+Скриншот прилагается.

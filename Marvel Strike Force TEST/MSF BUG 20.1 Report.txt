@@ -1,0 +1,36 @@
+(ENGLISH VERSION)
+
+DESCRIPTION: In the "CHARACTERS" module for some heroes, the name and level are not displayed.
+PRECONDITION: неизвестно.
+LOСALIZATION: Russian.
+
+ENVIRONMENT: Device: POCO X3 PRO / Android Version: 11 RKQ1.200826.002 / MIUI Version (for POCO): MIUI Global 12.5.1 Stable 12.5.1.0(RJURUXM) 
+CLIENT: Marvel strike force 6.3.0
+TIME: 09/08/2022 0:18 (Moscow time)
+
+PLAYBACK STEPS:
+1) Open "Marvel strike force"
+2) Go to the "CHARACTERS" module
+
+EXPECTED RESULT: All characters from the list have a: name/level/strength displayed.
+ACTUAL RESULT: Some characters display only strength.
+Screenshots and videos are attached.
+
+
+(RUSSIAN VERSION)
+
+ОПИСАНИЕ: В модуле "ПЕРСОНАЖИ" у некоторых героев, не отображается имя и уровень.
+ПРЕДУСЛОВИЕ: неизвестно.
+ЛОКАЛИЗАЦИЯ: Русская. 
+
+ОКРУЖЕНИЕ: устройство: POCO X3 PRO / Версия андроид: 11 RKQ1.200826.002 / Версия MIUI (для POCO): MIUI Global 12.5.1 Стабильная 12.5.1.0(RJURUXM) 
+КЛИЕНТ: Marvel strike force 6.3.0
+ВРЕМЯ: 08/09/2022 0:18 (по Московскому времени)
+
+ШАГИ ВОСПРОИЗВЕДЕНИЯ:
+1) Открыть "Marvel strike force"
+2) Перейти в модуль "ПЕРСОНАЖИ" 
+
+ОЖИДАЕМЫЙ РЕЗУЛЬТАТ: У всех персонажей из списка отображается имя / уровень / сила.
+ФАКТИЧЕСКИЙ РЕЗУЛЬТАТ: У некоторых персонажей отображается только сила.
+Скриншоты и видео прилогаются.

@@ -1,0 +1,37 @@
+(ENGLISH VERSION)
+
+DESCRIPTION: In the supplies module, the character "STAR LORD (TCHALLA)" has the lower part of the description closed with the purchase button.
+PRECONDITION: The store's offer must contain fragments of the character "STAR LORD (TCHALLA)".
+LOСALIZATION: Russian
+
+ENVIRONMENT: Device: POCO X3 PRO / Android Version: 11 RKQ1.200826.002 / MIUI Version (for POCO): MIUI Global 12.5.1 Stable 12.5.1.0(RJURUXM) 
+CLIENT: Marvel strike force 6.3.0
+TIME: 09/02/2022 12:23 (Moscow time)
+
+PLAYBACK STEPS:
+1) Open "Marvel strike force"
+2) Go to "SUPPLIES"
+
+EXPECTED RESULT: You can read the description of the character in full.
+ACTUAL RESULT: The lower part of the description is not readable.
+Screenshot is attached.
+
+
+
+(RUSSIAN VERSION)
+
+ОПИСАНИЕ: В модуле припасы, у персонажа "ЗВЁЗДНЫЙ ЛОРД (ТЧАЛЛА)" нижняя часть описания, закрыта кнопкой покупки.
+ПРЕДУСЛОВИЕ: В предложении магазина должны быть осколки персонажа "ЗВЁЗДНЫЙ ЛОРД (ТЧАЛЛА)"
+ЛОКАЛИЗАЦИЯ: Русская
+
+ОКРУЖЕНИЕ: устройство: POCO X3 PRO / Версия андроид: 11 RKQ1.200826.002 / Версия MIUI (для POCO): MIUI Global 12.5.1 Стабильная 12.5.1.0(RJURUXM) 
+КЛИЕНТ: Marvel strike force 6.3.0
+ВРЕМЯ: 02/09/2022 12:23 (по Московскому времени)
+
+ШАГИ ВОСПРОИЗВЕДЕНИЯ:
+1) Открыть "Marvel strike force"
+2) Перейти в "ПРИПАСЫ" 
+
+ОЖИДАЕМЫЙ РЕЗУЛЬТАТ: Можно прочитать описание персонажа полностью.
+ФАКТИЧЕСКИЙ РЕЗУЛЬТАТ: Нижнюю часть описания не прочитать.
+Скриншот прилагается.
