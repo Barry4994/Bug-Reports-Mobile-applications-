@@ -1,0 +1,39 @@
+(ENGLISH VERSION)
+
+DESCRIPTION: The "FIND" button in the "CHARACTERS" module does not display options from the "COMPANY"
+LOСALIZATION: Russian
+
+ENVIRONMENT: Device: POCO X3 PRO / Android Version: 11 RKQ1.200826.002 / MIUI Version (for POCO): MIUI Global 12.5.1 Stable 12.5.1.0(RJURUXM) 
+CLIENT: Marvel strike force 6.4.0
+TIME: 09/16/2022 14:39 (Moscow time)
+
+PLAYBACK STEPS:
+1) Open "Marvel strike force"
+2) Go to "CHARACTERS"
+3) Choose a hero whose fragments can be obtained in the "COMPANY"
+4) Click the "FIND" button
+
+EXPECTED RESULT: After clicking the "FIND" button, options from the "COMPANY" will be offered
+ACTUAL RESULT: After clicking the "FIND" button, only "SPHERES" were offered
+The video is attached.
+
+
+
+(RUSSIAN VERSION)
+
+ОПИСАНИЕ: Кнопка "НАЙТИ" в модуле "ПЕРСОНАЖИ" не отображает варианты из "КОМПАНИИ" 
+ЛОКАЛИЗАЦИЯ: Русская
+
+ОКРУЖЕНИЕ: устройство: POCO X3 PRO / Версия андроид: 11 RKQ1.200826.002 / Версия MIUI (для POCO): MIUI Global 12.5.1 Стабильная 12.5.1.0(RJURUXM) 
+КЛИЕНТ: Marvel strike force 6.4.0
+ВРЕМЯ: 16/09/2022 14:39 (по Московскому времени)
+
+ШАГИ ВОСПРОИЗВЕДЕНИЯ:
+1) Открыть "Marvel strike force"
+2) Перейти в "ПЕРСОНАЖИ"
+3) Выбрать героя, осколки которого можно получить в "КОМПАНИЯ"
+4) Нажать кнопку "НАЙТИ"
+
+ОЖИДАЕМЫЙ РЕЗУЛЬТАТ: После нажатия кнопки "НАЙТИ" будут предложены варианты из "КОМПАНИИ"
+ФАКТИЧЕСКИЙ РЕЗУЛЬТАТ: После нажатия кнопки "НАЙТИ" были предложены только "СФЕРЫ"
+Видео прилагается.

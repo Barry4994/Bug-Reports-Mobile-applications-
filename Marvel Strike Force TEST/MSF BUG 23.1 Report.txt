@@ -1,0 +1,38 @@
+(ENGLISH VERSION)
+
+DESCRIPTION: The numeric value in the hint of the number of available spheres to open is displayed incorrectly.
+PRECONDITION: At least one available sphere to open in the "RAID STORE"
+LOСALIZATION: Russian
+
+ENVIRONMENT: Device: POCO X3 PRO / Android Version: 11 RKQ1.200826.002 / MIUI Version (for POCO): MIUI Global 12.5.1 Stable 12.5.1.0(RJURUXM) 
+CLIENT: Marvel strike force 6.4.0
+TIME: (09/18/2022 15:02 - SCR 23.1.1), (09/18/2022 19:38 - SCR 23.1.2), (09/19/2022 1:12 - SCR 23.1.3), (09/19/2022 12:35 - VID 23.1.4) (Moscow time)
+
+PLAYBACK STEPS:
+1) Open "Marvel strike force"
+2) Go to "ALLIANCE RAIDS"
+3) Go to the "ALLIANCE STORE"
+
+EXPECTED RESULT: The hint displays a numeric value equal to the number of available spheres to open.
+ACTUAL RESULT: The tooltip displays the numeric value 99.
+Screenshots and video are attached.
+
+
+(RUSSIAN VERSION)
+
+ОПИСАНИЕ:  Неверно отображается числовое значение в подсказке количества доступных сфер для открытия.
+ПРЕДУСЛОВИЕ: Минимум одна доступная сфера для открытия в "МАГАЗИН РЕЙДА"
+ЛОКАЛИЗАЦИЯ: Русская
+
+ОКРУЖЕНИЕ: устройство: POCO X3 PRO / Версия андроид: 11 RKQ1.200826.002 / Версия MIUI (для POCO): MIUI Global 12.5.1 Стабильная 12.5.1.0(RJURUXM) 
+КЛИЕНТ: Marvel strike force 6.4.0
+ВРЕМЯ: (09/18/2022 15:02 - СКР 23.1.1), (09/18/2022 19:38 - СКР 23.1.2), (09/19/2022 1:12 - СКР 23.1.3), (09/19/2022 12:35 - ВИД 23.1.4) (по Московскому времени)
+
+ШАГИ ВОСПРОИЗВЕДЕНИЯ:
+1) Открыть "Marvel strike force"
+2) Переайти в "РЕЙДЫ АЛЬЯНСА"
+3) Переайти в "МАГАЗИН АЛЬЯНСА"
+
+ОЖИДАЕМЫЙ РЕЗУЛЬТАТ: Подсказка отображает числовое значение равное количеству доступных сфер для открытия.
+ФАКТИЧЕСКИЙ РЕЗУЛЬТАТ: Подсказка отображает числовое значение 99.
+Скриншоты и видео прилогаются.
