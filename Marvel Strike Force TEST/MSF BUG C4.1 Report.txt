@@ -1,0 +1,46 @@
+(ENGLISH VERSION)
+
+DESCRIPTION: In the "WAR" event, the enemy characters "GAMMA" have a maximum number of positive effects exceeding 1289.
+PRECONDITION: Event "WAR", (DIFFICULTY: 4), Mission 4, THE AVENGERS: SHARON CARTER, CAPTAIN AMERICA (SAM), MARIA HILL, KATE BISHOP, ECHO.
+LOСALIZATION: Russian
+
+ENVIRONMENT: Device: POCO X3 PRO / Android Version: 11 RKQ1.200826.002 / MIUI Version (for POCO): MIUI Global 12.5.1 Stable 12.5.1.0(RJURUXM) 
+CLIENT: Marvel strike force 6.4.1
+TIME: 09/29/2022 0:28 (Moscow time)
+
+PLAYBACK STEPS:
+1) Open "Marvel strike force"
+2) Go to the "WAR" event
+3) Select (DIFFICULTY: 4)
+4) Select ALL "PUNISHMENT" except: ("Experimental Serum 3", "Not So Fast...", "Overload", "The Great Trick", "Energy Overspending 2", "Immortality", "Pyrrhic Victory 2",
+"Dazzling Power", "A Good Start", "Energy Overspending 1", "Fight or Flight")
+5) Get to Mission 4
+6) Fight the Avengers: SHARON CARTER, CAPTAIN AMERICA (SAM), MARIA HILL, KATE BISHOP, ECHO
+
+EXPECTED RESULT: Enemy heroes receive no more than 10 regeneration charges.
+ACTUAL RESULT: Enemy heroes of Gamma receive more than 1000 regeneration charges.
+Screenshots and videos are attached.
+
+
+(RUSSIAN VERSION)
+
+ОПИСАНИЕ: В событии "ВОЙНА" у вражеских персонажей "ГАММА" максимальное количество положительных эффектов превышает 1289.
+ПРЕДУСЛОВИЕ: Событие "ВОЙНА", (СЛОЖНОСТЬ: 4), Миссия 4, МСТИТЕЛИ: ШЭРОН КАРТЕР, КАПИТАН АМЕРИКА(СЭМ), МАРИЯ ХИЛЛ, КЕЙТ БИШОП, ЭХО.
+ЛОКАЛИЗАЦИЯ: Русская
+
+ОКРУЖЕНИЕ: устройство: POCO X3 PRO / Версия андроид: 11 RKQ1.200826.002 / Версия MIUI (для POCO): MIUI Global 12.5.1 Стабильная 12.5.1.0(RJURUXM) 
+КЛИЕНТ: Marvel strike force 6.4.1
+ВРЕМЯ: 29/09/2022 0:28 (по Московскому времени)
+
+ШАГИ ВОСПРОИЗВЕДЕНИЯ:
+1) Открыть "Marvel strike force"
+2) Перейти в событие "ВОЙНА"
+3) Выбрать (СЛОЖНОСТЬ: 4)
+4) Выбрать ВСЕ "КАРЫ" кроме: ("Экспериментальная сыворотка 3", "Не так быстро...", "Перегружка", "Великая хитрость", "Перерасход энергии 2", "Бессмертие", "Пиррова победа 2", 
+"Ослепительная сила", "Хорошее начало", "Перерасход энергии 1", "Сражайся или беги")
+5) Добраться до Миссия 4
+6) Сражаться мстителями: ШЭРОН КАРТЕР, КАПИТАН АМЕРИКА(СЭМ), МАРИЯ ХИЛЛ, КЕЙТ БИШОП, ЭХО
+
+ОЖИДАЕМЫЙ РЕЗУЛЬТАТ: Вражеские герои получают не более 10 зарядов регенерации.
+ФАКТИЧЕСКИЙ РЕЗУЛЬТАТ: Вражеские герои Гамма поучают более 1000 зарядов регенерации.
+Скриншоты и видео прилогаются.

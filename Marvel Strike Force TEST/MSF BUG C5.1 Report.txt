@@ -1,0 +1,41 @@
+(ENGLISH VERSION)
+
+DESCRIPTION: Some characters incorrectly display the amount of health gained from unique equipment.
+PRECONDITION: The amount of health for this item of equipment is more than 10000.
+LOСALIZATION: Russian
+
+ENVIRONMENT: Device: POCO X3 PRO / Android Version: 11 RKQ1.200826.002 / MIUI Version (for POCO): MIUI Global 12.5.1 Stable 12.5.1.0(RJURUXM) 
+CLIENT: Marvel strike force 6.4.1
+TIME: 09/21/2022 13:07 (Moscow time)
+
+PLAYBACK STEPS:
+1) Open "Marvel strike force"
+2) Go to "CHARACTERS"
+3) Choose a character whose unique equipment gives 10,000 or more health
+4) View equipment
+
+EXPECTED RESULT: The amount of health acquired from the equipment is displayed as a full numeric value.
+ACTUAL RESULT: The amount of health acquired from the equipment is displayed without the last 0.
+Screenshots are attached.
+
+
+
+(RUSSIAN VERSION)
+
+ОПИСАНИЕ: У некоторых персонажей некорректно отображается количество здоровья, преобретённого от уникального снаряжения.
+ПРЕДУСЛОВИЕ: Количество здоровья за этот элемента снаряжения больше 10000.
+ЛОКАЛИЗАЦИЯ: Русская
+
+ОКРУЖЕНИЕ: устройство: POCO X3 PRO / Версия андроид: 11 RKQ1.200826.002 / Версия MIUI (для POCO): MIUI Global 12.5.1 Стабильная 12.5.1.0(RJURUXM) 
+КЛИЕНТ: Marvel strike force 6.4.1
+ВРЕМЯ: 21/09/2022 13:07 (по Московскому времени)
+
+ШАГИ ВОСПРОИЗВЕДЕНИЯ:
+1) Открыть "Marvel strike force"
+2) Перейти в "ПЕРСОНАЖИ"
+3) Выбрать персонажа, уникальное снаряжение для которого, даёт 10000 или боле здоровья
+4) Просмотреть снаряжение
+
+ОЖИДАЕМЫЙ РЕЗУЛЬТАТ: Количество здоровья, преобретаемого от снаряжения отображается полным числовым значением.
+ФАКТИЧЕСКИЙ РЕЗУЛЬТАТ: Количество здоровья, преобретаемого от снаряжения отображается без последнего 0.
+Скриншоты прилагаются.
