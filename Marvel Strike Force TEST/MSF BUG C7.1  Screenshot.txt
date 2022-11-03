@@ -1,0 +1,39 @@
+(ENGLISH VERSION)
+
+DESCRIPTION: In the temporary event "POCKET DIMENSION", the filter of acceptable characters does not work correctly
+PRECONDITION: The event "POCKET DIMENSION - AVENGING ASGARD" is taking place
+LOСALIZATION: Russian
+
+ENVIRONMENT: Device: POCO X3 PRO / Android Version: 11 RKQ1.200826.002 / MIUI Version (for POCO): MIUI Global 12.5.1 Stable 12.5.1.0(RJURUXM) 
+CLIENT: Marvel strike force 6.5.0
+TIME: 11/03/2022 10:46 (Moscow time)
+
+PLAYBACK STEPS:
+1) Open "Marvel strike force"
+2) Go to the EPIC COMPANIES module
+3) Go to the "POCKET DIMENSION"
+
+EXPECTED RESULT: Characters like "МСТИТЕЛЬНЫЙ АСГАРД" will be available
+ACTUAL RESULT: There are no characters available, and instead of the "МСТИТЕЛЬНЫЙ АСГАРД" filter, there is "AVENGING ASGARD"
+Screenshots and videos are attached.
+
+
+(RUSSIAN VERSION)
+
+ОПИСАНИЕ: Во временном ивенте "КАРМАННОЕ ИЗМЕРЕНИЕ" некорректно работает фильтр допустимых персонажей
+ПРЕДУСЛОВИЕ: Проходит ивент "КАРМАННОЕ ИЗМЕРЕНИЕ - МСТИТЕЛЬНЫЙ АСГАРД" 
+ЛОКАЛИЗАЦИЯ: Русская
+
+ОКРУЖЕНИЕ: устройство: POCO X3 PRO / Версия андроид: 11 RKQ1.200826.002 / Версия MIUI (для POCO): MIUI Global 12.5.1 Стабильная 12.5.1.0(RJURUXM) 
+КЛИЕНТ: Marvel strike force 6.5.0
+ВРЕМЯ: 03/11/2022 10:46 (по Московскому времени)
+
+ШАГИ ВОСПРОИЗВЕДЕНИЯ:
+1) Открыть "Marvel strike force"
+2) Переходим в модуль "ЭПИЧЕСКИЕ КОМПАНИИ"
+3) Переходим в "КАРМАННОЕ ИЗМЕРЕНИЕ" 
+
+ОЖИДАЕМЫЙ РЕЗУЛЬТАТ: Будут доступны персонажи типа "МСТИТЕЛЬНЫЙ АСГАРД"
+ФАКТИЧЕСКИЙ РЕЗУЛЬТАТ: Нет доступных персонажей, а вместо фильтра "МСТИТЕЛЬНЫЙ АСГАРД" существует "AVENGING ASGARD"
+Видео и скриншот прилагаются.
+

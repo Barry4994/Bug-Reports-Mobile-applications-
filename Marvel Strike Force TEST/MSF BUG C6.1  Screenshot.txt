@@ -1,0 +1,37 @@
+(ENGLISH VERSION)
+
+DESCRIPTION: The bonus from the passive "Rogue" ability does not work correctly (Applies to Riders)
+PRECONDITION: The characters of the "RIDER" type are open
+LOСALIZATION: Russian
+
+ENVIRONMENT: Device: POCO X3 PRO / Android Version: 11 RKQ1.200826.002 / MIUI Version (for POCO): MIUI Global 12.5.1 Stable 12.5.1.0(RJURUXM) 
+CLIENT: Marvel strike force 6.5.0
+TIME: 10/23/2022 19:24 (Moscow time)
+
+PLAYBACK STEPS:
+1) Open "Marvel strike force"
+2) Choose ROGUE, RED HULK and MORGANA LE FAY for the squad
+
+EXPECTED RESULT: The bonus from the passive ability "ROGUE" level 5 applies only to the "INVINCIBLE X-MEN".
+ACTUAL RESULT: The bonus from the passive ability "ROGUE" level 5 applies to "RIDERS".
+Videos are attached.
+
+
+(RUSSIAN VERSION)
+
+ОПИСАНИЕ: Неверно работает бонус от пассивной способности Роуг (Распространяется на Всадников)
+ПРЕДУСЛОВИЕ: Открыты персонажи типа "ВСАДНИК"
+ЛОКАЛИЗАЦИЯ: Русская
+
+ОКРУЖЕНИЕ: устройство: POCO X3 PRO / Версия андроид: 11 RKQ1.200826.002 / Версия MIUI (для POCO): MIUI Global 12.5.1 Стабильная 12.5.1.0(RJURUXM) 
+КЛИЕНТ: Marvel strike force 6.5.0
+ВРЕМЯ: 23/10/2022 19:24 (по Московскому времени)
+
+ШАГИ ВОСПРОИЗВЕДЕНИЯ:
+1) Открыть "Marvel strike force"
+2) Выбрать в отряд "РОУГ", "КРАСНЫЙ ХАЛК" и "МОРГАНА ЛЕ ФЭЙ"
+
+ОЖИДАЕМЫЙ РЕЗУЛЬТАТ: Бонус от пассивной способности "РОУГ" 5 уровня распространяется только на "НЕОДОЛИМЫХ ЛЮДЕЙ ИКС".
+ФАКТИЧЕСКИЙ РЕЗУЛЬТАТ: Бонуст от пассивной способности "РОУГ" 5 уровня распространяется на "ВСАДНИКОВ".
+Видео прилагается.
+
